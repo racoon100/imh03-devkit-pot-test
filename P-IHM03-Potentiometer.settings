@@ -1,0 +1,6 @@
+#
+#Fri Jan 02 22:24:29 NZDT 2026
+selected.firmware_ver=1.6.0
+selected.toolchain=CMake
+selected.cubemx=6.15.0
+selected.driver=HAL - Hardware Abstraction Layer
